@@ -3,7 +3,7 @@ title: Home
 description: "🎶 A Discord music bot that’s easy to set up and run yourself!"
 ---
 
-## Welcome to the **JMusicBot** wiki!
+## Welcome to the **Frustrated** wiki!
 
 <img align="right" src="assets/images/logo.png" style="border:2px solid;border-radius:50px;" height="200" width="200">
 
